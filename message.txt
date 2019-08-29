@@ -3,13 +3,10 @@ Welcome to Dell!
 
 Yes, I am here!
 
-<<<<<<< HEAD
 yoyo
 jom
-=======
 X1
 
 x2
 
 x3
->>>>>>> y
